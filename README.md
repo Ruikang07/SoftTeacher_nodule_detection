@@ -1,4 +1,4 @@
-# Use SoftTeacher from Microsoft to do lung nodule detection with X-ray images
+## Use SoftTeacher from Microsoft to do lung nodule detection with X-ray images
 
 # End-to-End Semi-Supervised Object Detection with Soft Teacher
 
