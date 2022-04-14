@@ -1,7 +1,7 @@
 ## Use SoftTeacher from Microsoft to do lung nodule detection with X-ray images
-<br>The thirdparty mmdetection is included, only mmcv need to be installed 
+<br>The thirdparty mmdetection is included, only mmcv need to be installed by 
 <br>pip install mmcv-full -f https://download.openmmlab.com/mmcv/dist/cu111/torch1.10.0/index.html
-<br><br>
+<br><br><br><br><br>
 
 # End-to-End Semi-Supervised Object Detection with Soft Teacher
 
