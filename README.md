@@ -1,3 +1,5 @@
+# Use SoftTeacher from Microsoft to do lung nodule detection with X-ray images
+
 # End-to-End Semi-Supervised Object Detection with Soft Teacher
 
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/end-to-end-semi-supervised-object-detection/semi-supervised-object-detection-on-coco-1)](https://paperswithcode.com/sota/semi-supervised-object-detection-on-coco-1?p=end-to-end-semi-supervised-object-detection)
