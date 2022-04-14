@@ -1,0 +1,143 @@
+{
+    "images": [
+        {
+            "file_name": "u0001.png",
+            "id": 3330001,
+            "width": 640,
+            "height": 640
+        },
+        {
+            "file_name": "u0002.png",
+            "id": 3330002,
+            "width": 640,
+            "height": 640
+        },
+        {
+            "file_name": "u0003.png",
+            "id": 3330003,
+            "width": 640,
+            "height": 640
+        },
+        {
+            "file_name": "u0004.png",
+            "id": 3330004,
+            "width": 640,
+            "height": 640
+        },
+        {
+            "file_name": "u0005.png",
+            "id": 3330005,
+            "width": 640,
+            "height": 640
+        },
+        {
+            "file_name": "u0006.png",
+            "id": 3330006,
+            "width": 640,
+            "height": 640
+        },
+        {
+            "file_name": "u0007.png",
+            "id": 3330007,
+            "width": 640,
+            "height": 640
+        },
+        {
+            "file_name": "u0008.png",
+            "id": 3330008,
+            "width": 640,
+            "height": 640
+        },
+        {
+            "file_name": "u0009.png",
+            "id": 3330009,
+            "width": 640,
+            "height": 640
+        },
+        {
+            "file_name": "u0010.png",
+            "id": 3330010,
+            "width": 640,
+            "height": 640
+        },
+        {
+            "file_name": "u0011.png",
+            "id": 3330011,
+            "width": 640,
+            "height": 640
+        },
+        {
+            "file_name": "u0012.png",
+            "id": 3330012,
+            "width": 640,
+            "height": 640
+        },
+        {
+            "file_name": "u0013.png",
+            "id": 3330013,
+            "width": 640,
+            "height": 640
+        },
+        {
+            "file_name": "u0014.png",
+            "id": 3330014,
+            "width": 640,
+            "height": 640
+        },
+        {
+            "file_name": "u0015.png",
+            "id": 3330015,
+            "width": 640,
+            "height": 640
+        },
+        {
+            "file_name": "u0016.png",
+            "id": 3330016,
+            "width": 640,
+            "height": 640
+        },
+        {
+            "file_name": "u0017.png",
+            "id": 3330017,
+            "width": 640,
+            "height": 640
+        },
+        {
+            "file_name": "u0018.png",
+            "id": 3330018,
+            "width": 640,
+            "height": 640
+        },
+        {
+            "file_name": "u0019.png",
+            "id": 3330019,
+            "width": 640,
+            "height": 640
+        },
+        {
+            "file_name": "u0020.png",
+            "id": 3330020,
+            "width": 640,
+            "height": 640
+        },
+        {
+            "file_name": "u0021.png",
+            "id": 3330021,
+            "width": 640,
+            "height": 640
+        },
+        {
+            "file_name": "u0022.png",
+            "id": 3330022,
+            "width": 640,
+            "height": 640
+        }
+    ],
+    "annotations": [],
+    "categories": [
+        {
+            "id": 0,
+            "name": "nodule"
+        }
+    ]
+}
